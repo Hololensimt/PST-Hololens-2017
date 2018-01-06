@@ -1,0 +1,16 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: "Assets/Scenes/\xE9toile.unity"
+    guid: 8af7995b9810e5148ab79c025c744a9f
+  - enabled: 0
+    path: Assets/Scenes/maison.unity
+    guid: a9ad10583abc10f4dbaf44dc71ff849b
+  - enabled: 1
+    path: Assets/Scenes/tets_chest.unity
+    guid: ab461d6a05d35db4c87e7fb975196f17
